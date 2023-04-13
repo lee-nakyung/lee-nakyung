@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=🦁%20공부안하고%20띵가띵가%20노는사람%20🦁&fontSize=36&animation=fadeIn&fontAlignY=36)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-nakyung&count_bg=%236EFF00&title_bg=%2300E8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&pause=1000&color=6013F7&center=true&vCenter=true&repeat=true&width=435&lines=Na._.kyung's+Github)](https://git.io/typing-svg)
 
 <!-- 추천 font : Nixie One Monoton Silkscreen CodystarMonofett -->
@@ -11,6 +13,7 @@
 ### 🦁 Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
