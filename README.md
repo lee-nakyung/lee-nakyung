@@ -28,9 +28,9 @@
 ### 🦁 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Android%20Studio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
-![Visual%20Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white)
-![Visual%20Studio%20Code](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![Android%20Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### 🦁 BOJ / Solved.ac
 - BOJ : [**lnk5324**](https://www.acmicpc.net/user/lnk5324)
