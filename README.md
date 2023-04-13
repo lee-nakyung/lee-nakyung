@@ -27,11 +27,10 @@
 
 ### 🦁 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-
+![Android Studio](https://img.shields.io/badge/Android Studio-3DDC84.svg?style=for-the-badge&logo=Android Studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=Visual Studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white)
 
 ### 🦁 BOJ / Solved.ac
 - BOJ : [**lnk5324**](https://www.acmicpc.net/user/lnk5324)
