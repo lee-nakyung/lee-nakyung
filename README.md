@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=🦁%20백준안풀고매일노는사람%20🦁&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=🦁%20공부안하고%20띵가띵가%20노는사람%20🦁&fontSize=36&animation=fadeIn&fontAlignY=36)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&pause=1000&color=6013F7&center=true&vCenter=true&repeat=true&width=435&lines=Na._.kyung's+Github)](https://git.io/typing-svg)
 
