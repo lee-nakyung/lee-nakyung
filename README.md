@@ -33,8 +33,8 @@
 ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### 🦁 BOJ / Solved.ac
-- BOJ : [**lnk5324**](https://www.acmicpc.net/user/lnk5324)
-- Solved.ac : [**lnk5324**](https://solved.ac/profile/Ink5324)
+- BOJ : [**leena3823**](https://www.acmicpc.net/user/lnk5324)
+- Solved.ac : [**leena3823**](https://solved.ac/profile/Ink5324)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lnk5324)](https://solved.ac/junhaa)
