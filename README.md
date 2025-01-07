@@ -1,12 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=👩‍💻%20Welcome%20to%20Na._.kyung's%20Github!%20👩‍💻&fontSize=30&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=✨%20Welcome%20to%20Na._.kyung's%20World%20✨&fontSize=40&fontAlign=50&fontAlignY=40&desc=Frontend%20and%20Backend%20Developer&descAlign=50&descAlignY=60)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=👩‍💻+Frontend+%7C+Backend+Developer;🎨+Creative+Problem+Solver;🚀+Passionate+about+Tech!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50" height="50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=FCA311&center=true&vCenter=true&width=700&lines=👩‍💻+Frontend+%7C+Backend+Developer;🎨+Passionate+about+UI/UX+Design;🚀+Eager+to+Learn+and+Innovate;🌟+Sharing+Knowledge+Through+Code" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50" height="50">
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-nakyung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-nakyung&count_bg=%23FFDD00&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" />
+  <img src="https://img.shields.io/github/followers/lee-nakyung?style=social" alt="GitHub Followers" />
 </p>
+
 
 ---
 
