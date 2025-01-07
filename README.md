@@ -52,11 +52,9 @@
 
 <div align="center">
 
-| **Activity**     | **Description**                                                                                   |
-|-------------------|---------------------------------------------------------------------------------------------------|
-| 🎓 **Club Name**  | Participated in a developer's club to create collaborative projects and enhance programming skills |
-| 🏆 **Hackathon**  | Developed a full-stack web application in a 48-hour hackathon and won a team award               |
-| 💻 **Workshop**   | Attended workshops on AI and React to expand knowledge and apply new concepts to projects         |
-| 🌟 **Volunteer**  | Mentored junior developers in coding bootcamps                                                   |
+- 🦁 **멋쟁이사자처럼 12기** 프론트엔드 트랙  
+- 💻 **학교 개발 동아리** 활동  
+- 🎓 **OO 해커톤 참가**  
+- 🎨 **기술 블로그 작성 및 공유**  
 
 </div>
