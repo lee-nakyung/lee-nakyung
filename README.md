@@ -10,6 +10,21 @@
 
 ---
 
+
+### ✨ **Activities**
+
+<div align="left">
+
+- 🦁 **멋쟁이사자처럼 11기** 프론트엔드 트랙 🦁
+- ☁️ **구름톤 UNIV 1기** 프론트엔드 트랙 ☁️
+- 🎓 **UMC 5기** 프론트엔드 트랙 🎓
+- 🦁 **멋쟁이사자처럼 12기** 프론트엔드 트랙 운영진 🦁
+- 💻 **한성대학교 교내 안드로이드 앱 개발자** 💻
+
+</div>
+
+---
+
 ### 🛠 **Tech Stack**
 
 <div align="center">
@@ -43,19 +58,5 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-### ✨ **Activities**
-
-<div align="left">
-
-- 🦁 **멋쟁이사자처럼 11기** 프론트엔드 트랙 🦁
-- ☁️ **구름톤 UNIV 1기** 프론트엔드 트랙 ☁️
-- 🎓 **UMC 5기** 프론트엔드 트랙 🎓
-- 🦁 **멋쟁이사자처럼 12기** 프론트엔드 트랙 운영진 🦁
-- 💻 **한성대학교 교내 안드로이드 앱 개발자**
 
 </div>
