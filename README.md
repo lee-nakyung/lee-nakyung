@@ -46,18 +46,7 @@
 
 </div>
 
----
 
-### 🌟 **Github Stats**
-
-<div align="center">
-  
-![Na._.kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-nakyung&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-nakyung&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ### 🎉 **Fun Projects**
 
