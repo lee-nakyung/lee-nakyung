@@ -46,13 +46,17 @@
 
 </div>
 
+---
 
+### ✨ **Activities**
 
-### 🎉 **Fun Projects**
+<div align="center">
 
-- [BOJ Profile](https://www.acmicpc.net/user/lnk5324)
-- [Solved.ac Profile](https://solved.ac/profile/lnk5324)
+| **Activity**     | **Description**                                                                                   |
+|-------------------|---------------------------------------------------------------------------------------------------|
+| 🎓 **Club Name**  | Participated in a developer's club to create collaborative projects and enhance programming skills |
+| 🏆 **Hackathon**  | Developed a full-stack web application in a 48-hour hackathon and won a team award               |
+| 💻 **Workshop**   | Attended workshops on AI and React to expand knowledge and apply new concepts to projects         |
+| 🌟 **Volunteer**  | Mentored junior developers in coding bootcamps                                                   |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lee-nakyung&bg_color=1a1b27&color=9b59b6&line=9b59b6&point=FFFFFF&area=true&hide_border=true" alt="Github activity graph" />
-</p>
+</div>
