@@ -64,4 +64,10 @@
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+---
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=lee-nakyung&show_icons=true&theme=onedark" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-nakyung&layout=compact&theme=onedark" alt="Top Langs" height="180"/>
+
+
