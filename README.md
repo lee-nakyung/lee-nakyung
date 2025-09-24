@@ -69,6 +69,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=lee-nakyung&show_icons=true&theme=onedark" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-nakyung&layout=compact&theme=onedark" alt="Top Langs" height="180"/>
+
+---
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=lee-nakyung&theme=onedark)](https://github.com/lee-nakyung/github-profile-trophy)
 
